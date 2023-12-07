@@ -1,2 +1,2 @@
 # album_search
-Return album and artist names for a selected musical genre.
+A streamlit selectbox is filled with about 200 different musical genres from the same wiki page "lists of artists by genre".  BeautiulSoup will find all artists from the selected genre.  For now, the wiki URLs of 3 randomly-selected artists are scraped and the names of all full-length non-live studio albums are returned and combined into one Pandas dataframe.  Reference URLs are also displayed.
