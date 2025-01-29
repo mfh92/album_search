@@ -1,5 +1,1 @@
-langdetect
-pandas
-requests
-bs4
-streamlit==0.52.0
+pandas==2.2.3
