@@ -1,3 +1,4 @@
+beautifulsoup4==4.12.3
 certifi==2024.12.14
 charset-normalizer==3.4.1
 idna==3.10
@@ -9,6 +10,7 @@ pytz==2024.2
 requests==2.32.3
 setuptools==75.8.0
 six==1.17.0
+soupsieve==2.6
 tzdata==2025.1
 urllib3==2.3.0
 wheel==0.45.1
